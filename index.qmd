@@ -15,7 +15,7 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[I'm Veronica Zheng. I'm a first-year MCP student concentrating in Smart Cities.I'm taking this course because it is on the Smart Cities concentration requirement]
+I'm Veronica Zheng. I'm a first-year MCP student concentrating in Smart Cities.I'm taking this course because it is on the Smart Cities concentration requirement
 
 ## Contact
 - Email: [vrnc@upenn.edu]
